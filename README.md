@@ -71,7 +71,5 @@ The script includes built-in error handling for:
 ## Author
 
 Felix Hellström
-
-## Website
-
+felix@stormfors.com
 www.stormfors.com

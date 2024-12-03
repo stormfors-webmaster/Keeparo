@@ -4,7 +4,7 @@ A lightweight script for fetching and displaying job listings.
 
 ## Description
 
-This script automatically fetches job listings from Jobbland using Duunitori's API and dynamically creates job listing elements on keeparo.com. It's designed to work with any Webflow component using the custom attributes.
+This script automatically fetches job listings from Jobbland using Duunitori's API and dynamically creates job listing elements on keeparo.com. The design can be updated in Webflow as long as the custom attributes are added.
 
 ## Setup
 

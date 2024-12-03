@@ -70,5 +70,8 @@ The script includes built-in error handling for:
 
 ## Author
 
-Created by Felix Hellström
-Website: www.stormfors.com
+Felix Hellström
+
+## Website
+
+www.stormfors.com

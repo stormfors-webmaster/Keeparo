@@ -54,7 +54,7 @@ function createJobs() {
   console.log("Creating jobs...");
   let jobContainer = document.querySelector(containerAttribute);
   let jobItem = document.querySelector(itemAttribute);
-  if (jobContainer && jobList.length > 0) {
+  if (jobContainer) {
     jobContainer.innerHTML = "";
     jobList.forEach((job) => {
       let jobItemClone = jobItem.cloneNode(true);
